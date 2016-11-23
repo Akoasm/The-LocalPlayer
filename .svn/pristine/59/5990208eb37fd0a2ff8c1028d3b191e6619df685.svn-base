@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_fast_forward.png",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_fast_forward.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_play_arrow.png",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_play_arrow.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_fast_rewind.png",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_fast_rewind.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_content_cut.png",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_content_cut.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_fullscreen.png",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_fullscreen.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_pause.png",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\exploded-aar\\LocalPlayer\\vitamio\\unspecified\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\pause_button.png",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\pause_button.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\play_button.png",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\play_button.png"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_aspect_ratio.png",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_aspect_ratio.png"
+    }
+]

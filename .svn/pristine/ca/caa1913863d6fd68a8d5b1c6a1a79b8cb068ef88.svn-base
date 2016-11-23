@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_13f863f735d8e6faab00f6f455ed3e8dfa4d05e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.2.1_51c7b4da1133dc759c91630f5474b44293daefb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_44204a80dfc6fde7e2364590ab5f83b9f08501d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_393d88ba82d614c6cffa4013d179f950a31c5416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0549fa6ab35ee4cb2bb9568624d17aa8b16ffb39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_12c3b4ca6026c911febb19d4c57807f4f95a503b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_00a84a581ad4eb7458b8cd68871f957294d69c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.2.1_d0cba7d1fce45006563dfd44736be862578072b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_514325a66a993279ef38a301a4dc79fecb579c99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\LocalPlayer\vitamio\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="633641aa664c243ee10b7f6cc027de3843f0f2d9">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\LocalPlayer-vitamio-unspecified_a6e1c8caa628666c67886911f167d2e3be491e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_73762f3199f2ff0e5ca4ce0bdbb29deb17da3ccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_64383fae682d41d27bdf2615798a5e689ef83a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9390226bda4c3f6715edf907f0b148e25b2cb70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_72e6d63e303b11e0bcec32a52eedf08dafba2709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_6a7deaf27e22e1097dffc0ba309f7193154e47f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_53aec55406f19cde9677e3f4ee2e8a09c9124fb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\LocalPlayer\videoplayer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="69b33f0b320bbdaec4c649e829c5e18d5afe63b6">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\LocalPlayer-videoplayer-unspecified_6ed8d31bc3a075f5de881c7321b04ec5ab5b609a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6d7ac6e06a39a285533ee2a876baa110b67e0798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\workspace\LocalPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\work\workspace\LocalPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_41c3c5a4276ba1986ddbd42db02a7a050d516bba.jar" />
+    </item>
+
+</items>

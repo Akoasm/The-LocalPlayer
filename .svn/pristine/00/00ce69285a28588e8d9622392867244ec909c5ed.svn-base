@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_fast_rewind.xml",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_fast_rewind.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_pause.xml",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_pause.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_fullscreen.xml",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_aspect_ratio.xml",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_aspect_ratio.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_fast_forward.xml",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_fast_forward.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\play_button.xml",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\play_button.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_content_cut.xml",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_content_cut.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_play_arrow.xml",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_play_arrow.xml"
+    },
+    {
+        "merged": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\pause_button.xml",
+        "source": "D:\\work\\workspace\\LocalPlayer\\videoplayer\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\pause_button.xml"
+    }
+]
